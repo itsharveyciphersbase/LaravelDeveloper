@@ -42,7 +42,9 @@ It's possible to order the same flavor of pizza but with different sizes multipl
 
 #### Please note!
 • Use PHP 7.2+ and the latest releases of Laravel. <br/>
-• You have to implement laravel authentication. <br/>
+• You have to implement laravel authentication for laravel 6 <br/>
 • You don't have to implement any frontend UI. <br/>
 • Keep your endpoints as RESTful as possible. <br/>
-• You have to write meaningful git commits (This is very important in working with us remotely) <br/>
+• You have to write meaningful git commits (This is very important in working with us remotely). <br/>
+• Push the code to a public repo on your account and send us the link.<br/>
+• Also you must track the time you spent on the code honestly (with any tool you want).<br/>
