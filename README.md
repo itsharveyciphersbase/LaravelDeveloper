@@ -37,7 +37,7 @@ It's possible to order the same flavor of pizza but with different sizes multipl
 2. Implement the functionality and API endpoints.
 3. Add a brief README with instructions on how to get your code from Git clone to up and running on macOS and/or Linux hosts.
 
-#### ponus points
+#### Bonus Points
 1. Implement the task to be running on docker (we expect to see 1 docker-compose in your project).
 2. Implement tests at least one test case for controller and one for the API endpoints.
 3. Experience and implementation of laravel caching is a big plus. 
